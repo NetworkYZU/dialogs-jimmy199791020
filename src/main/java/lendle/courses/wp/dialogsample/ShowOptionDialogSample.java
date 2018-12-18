@@ -5,6 +5,8 @@
  */
 package lendle.courses.wp.dialogsample;
 
+import javax.swing.table.DefaultTableModel;
+
 /**
  *
  * @author lendle
